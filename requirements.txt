@@ -6,3 +6,4 @@ matplotlib==3.3.4
 scipy==1.10.1
 mtcnn==0.1.1
 keras-vggface==0.6
+tensorflow==2.12.0
